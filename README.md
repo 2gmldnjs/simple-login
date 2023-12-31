@@ -1,16 +1,16 @@
 # simple-login
 
 
-로그인 화면
+로그인 화면   
 ![image](https://github.com/2gmldnjs/simple-login/assets/69203345/c3e588ec-4d56-4ec3-acd6-fbe2324c3f73)
 
 
-성공시
+성공시   
 ![image](https://github.com/2gmldnjs/simple-login/assets/69203345/9376e9ef-b17b-471b-8f8f-3681582e12bc)
 
 
 
-실패시
+실패시   
 ![image](https://github.com/2gmldnjs/simple-login/assets/69203345/c9f7997e-5020-44d2-9f65-63b46557802c)
 
 
