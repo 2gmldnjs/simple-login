@@ -33,7 +33,6 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
             // 비밀번호 확인
             if ($password==$row['pw']) {
                 echo "로그인 성공!";
-                // 여기에 로그인 성공 후의 동작을 추가하세요.
             } else {
                 echo "잘못된 비밀번호입니다.";
             }
